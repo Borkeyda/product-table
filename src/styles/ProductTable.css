@@ -1,0 +1,10 @@
+.product-table_header
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+.product-table_header span
+{
+    font-size: 20;
+    font-weight: 700;
+}

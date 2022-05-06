@@ -1,0 +1,10 @@
+.searchbar-container
+{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;
+}
+.searchbar-container input
+{
+    border-radius: 4px;
+}

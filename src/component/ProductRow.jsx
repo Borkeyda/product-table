@@ -9,6 +9,7 @@ function ProductRow(props) {
     <div className={theme}>
       <span>{producto} </span><span>$ {`$${precio}`} </span>
     </div>
+    
   )
 }
 
